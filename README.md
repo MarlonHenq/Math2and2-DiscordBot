@@ -4,7 +4,7 @@ Codes Math2and2 Discord bot - A math bot that changes according to the GNU Octav
 ## To add the bot to your server:
 https://discord.com/oauth2/authorize?client_id=854173695232049192&scope=bot
 
-
+![image](logo.PNG)
 
 ## To run the bot in your Linux PC or Linux Server
 
